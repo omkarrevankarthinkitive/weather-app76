@@ -1,0 +1,44 @@
+body {
+  color: #212529;
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 0 16px;
+  background-color: #f9f9f9;
+}
+
+.anchors a {
+  color: #7f8487;
+  text-decoration-line: none;
+  padding: 0.1rem;
+}
+
+.footerP {
+  color: #7f8487;
+}
+
+.lineHr {
+  color: #aaaaaa;
+  margin-top: 2rem;
+}
+
+.headingOne {
+  margin-top: 2rem;
+  font-size: 2.5rem;
+}
+
+.inputClass {
+  margin-top: 1rem;
+
+  border: 1px solid #adb5bd;
+}
+
+.submitButton {
+  background: transparent;
+  border: 1px solid #adb5bd;
+  color: #6c757d;
+}
+
+.useSite {
+  color: #495057;
+}
